@@ -25,5 +25,5 @@ TODO: Add long description of the pod here.
 
   
   s.frameworks = 'UIKit'
-  s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'AFNetworking', '~>3.1.0'
 end
