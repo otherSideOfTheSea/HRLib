@@ -1,0 +1,6 @@
+framework module withoutThirdFramework {
+  umbrella header "withoutThirdFramework.h"
+
+  export *
+  module * { export * }
+}
